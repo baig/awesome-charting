@@ -29,6 +29,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [Chartkick](https://github.com/ankane/chartkick) - JavaScript charts with one line of Ruby.
 * [d2b.js](http://www.d2bjs.org/) - Reusable chart library, using D3 v4+ and including support for axis, pie, sankey, sunburst charts and more.
 * [D3.js](https://d3js.org/) - Allows the user to manipulate documents based on data to render charts in SVG.
+* [Data UI](https://williaster.github.io/data-ui)
 * [dc.js](https://dc-js.github.io/dc.js/) - D3 Library with [crossfilter](http://square.github.io/crossfilter/) support
 * [dygraphs](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts.
 * [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser.
@@ -70,6 +71,8 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [recharts](http://recharts.org) - Redefined chart library built with React and D3
 * [vx](https://github.com/hshoff/vx) - A collection of reusable low-level visualization components.
 * [react-faux-dom](https://github.com/Olical/react-faux-dom) - DOM like data structure to be mutated by D3 et al, then rendered to React elements.
+* [react-jsx-highcharts](https://whawker.github.io/react-jsx-highcharts/examples/)
+* [react-easy-chart](https://rma-consulting.github.io/react-easy-chart/)
 
 
 ## Data Visualization Resources
