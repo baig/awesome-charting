@@ -21,6 +21,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [FusionCharts](http://www.fusioncharts.com/) - Charting library with a strong maps component.
 * [Highcharts](http://www.highcharts.com/) - A series of charting libraries for a variety of uses. Can be compatible back to IE6.
 * [KoolChart](https://www.koolchart.com/)
+* [Plotly](https://plot.ly/javascript/) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
 * [ZingChart](http://www.zingchart.com) - Built to render large data sets other libraries can't handle. Super customizable styling and new features added often. Everything in one modular library.
 
 ## Free and Open Source Libraries
@@ -36,18 +37,17 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser. (Canvas)
 * [EJSChart](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library. (Canvas)
 * [Frappe Charts](https://frappe.io/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies. (SVG)
-* [Graphosaurus](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
-* [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
-* [Plotly](https://plot.ly/javascript/) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
-* [Plottable](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
-* [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
-* [Rickshaw](https://shutterstock.github.io/rickshaw/)
-* [Rumble Charts](https://rumble-charts.github.io/rumble-charts/)
-* [sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
-* [Smoothie Charts](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
-* [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
-* [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
-* [vis.js](http://visjs.org/) - Network diagrams, descriptive timelines with labels, and has 3D graphs.
+* ~~[Graphosaurus](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)~~ (Canvas)
+* [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts (SVG)
+* [Plottable](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts. (SVG)
+* [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites. (Canvas and SVG)
+* [Rickshaw](https://shutterstock.github.io/rickshaw/) (SVG)
+* [Rumble Charts](https://rumble-charts.github.io/rumble-charts/) (SVG)
+* ~~[sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.~~ (Canvas)
+* [Smoothie Charts](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data. (Canvas)
+* [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets. (SVG)
+* [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js (SVG)
+* [vis.js](http://visjs.org/) - Network diagrams, descriptive timelines with labels, and has 3D graphs. (SVG)
 
 ## Free Libraries
 * [Google Charts](https://developers.google.com/chart/) - Maps are dialed in (of course) and some cool animation options. Extensive docs and use community (forum).
