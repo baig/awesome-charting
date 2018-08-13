@@ -28,14 +28,14 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [Chart.js](http://www.chartjs.org/) - Tiny library (11kb!) including core chart types. (Canvas)
 * [Chartist](https://gionkunz.github.io/chartist-js/) - Simple, lightweight chart library that uses SVG to render the chart, and CSS to style it. (SVG)
 * [Chartkick](https://github.com/ankane/chartkick.js) - JavaScript charts with one line of Ruby. (Canvas)
-* [d2b.js](http://www.d2bjs.org/) - Reusable chart library, using D3 v4+ and including support for axis, pie, sankey, sunburst charts and more.
-* [D3.js](https://d3js.org/) - Allows the user to manipulate documents based on data to render charts in SVG.
-* [Data UI](https://williaster.github.io/data-ui)
-* [dc.js](https://dc-js.github.io/dc.js/) - D3 Library with [crossfilter](http://square.github.io/crossfilter/) support
-* [dygraphs](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts.
-* [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser.
-* [EJSChart](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library.
-* [Frappe Charts](https://frappe.io/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
+* [d2b.js](http://www.d2bjs.org/) - Reusable chart library, using D3 v4+ and including support for axis, pie, sankey, sunburst charts and more. (SVG)
+* [D3.js](https://d3js.org/) - Allows the user to manipulate documents based on data to render charts in SVG. (SVG)
+* [Data UI](https://williaster.github.io/data-ui) (SVG)
+* [dc.js](https://dc-js.github.io/dc.js/) - D3 Library with [crossfilter](http://square.github.io/crossfilter/) support (SVG)
+* [dygraphs](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts. (Canvas)
+* [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser. (Canvas)
+* [EJSChart](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library. (Canvas)
+* [Frappe Charts](https://frappe.io/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies. (SVG)
 * [Graphosaurus](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
 * [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
 * [Plotly](https://plot.ly/javascript/) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
