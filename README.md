@@ -24,10 +24,10 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [ZingChart](http://www.zingchart.com) - Built to render large data sets other libraries can't handle. Super customizable styling and new features added often. Everything in one modular library.
 
 ## Free and Open Source Libraries
-* [C3.js](http://c3js.org/) - D3 based reusable chart library.
-* [Chart.js](http://www.chartjs.org/) - Tiny library (11kb!) including core chart types.
-* [Chartist](https://gionkunz.github.io/chartist-js/) - Simple, lightweight chart library that uses SVG to render the chart, and CSS to style it.
-* [Chartkick](https://github.com/ankane/chartkick) - JavaScript charts with one line of Ruby.
+* [C3.js](http://c3js.org/) - D3 based reusable chart library. (SVG)
+* [Chart.js](http://www.chartjs.org/) - Tiny library (11kb!) including core chart types. (Canvas)
+* [Chartist](https://gionkunz.github.io/chartist-js/) - Simple, lightweight chart library that uses SVG to render the chart, and CSS to style it. (SVG)
+* [Chartkick](https://github.com/ankane/chartkick.js) - JavaScript charts with one line of Ruby. (Canvas)
 * [d2b.js](http://www.d2bjs.org/) - Reusable chart library, using D3 v4+ and including support for axis, pie, sankey, sunburst charts and more.
 * [D3.js](https://d3js.org/) - Allows the user to manipulate documents based on data to render charts in SVG.
 * [Data UI](https://williaster.github.io/data-ui)
